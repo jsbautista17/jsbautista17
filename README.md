@@ -1,16 +1,18 @@
-## Hi there 👋
+# hola mi nombre es Sebastian
 
-<!--
-**jsbautista17/jsbautista17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ## Soy tecnologo en **Analisis y Desarrollo de Software** 
+> ## Tengo los siguientes cursos:
 
-Here are some ideas to get you started:
+> ### CURSO DE INFORMARTICA 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1️⃣ Word
+2️⃣ Excel
+3️⃣ Internet
+
+---
+
+> ### CURSO DE INGLES 📚
+🧾 English dot works beginner - ingles
+
+> ### CURSO DE SG SST 📚
+🧩 Sistema de Gestion De la Seguridad y Salud en el Trabajo
